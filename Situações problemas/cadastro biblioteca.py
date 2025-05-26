@@ -42,7 +42,7 @@ while True:
         print(len(livros))
     elif escolha==4:
         for livro in livros:
-            print(livros[1])
+            print(livros["titulo"])
 
     
     
